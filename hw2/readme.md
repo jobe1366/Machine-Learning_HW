@@ -1,6 +1,6 @@
 
-## :dart: *Calculate the decision_boundary for two class set (one_dimension)*
----  
+# :dart: *Calculate the decision_boundary for two class set (one_dimension)*
+
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
 <p>&nbsp;</p>   
@@ -11,7 +11,7 @@
 <p>&nbsp;</p>  
 
  ## _decision_boundary calculating_
----  
+ 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
 <p>&nbsp;</p>  
@@ -23,7 +23,7 @@
 <p>&nbsp;</p>  
 
 ## _Gaussian distribution and decision_boundary plots for two sets of data_ 
----
+
 
 <p>&nbsp;</p>  
 <p>&nbsp;</p>
