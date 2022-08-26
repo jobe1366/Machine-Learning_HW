@@ -26,4 +26,4 @@
 
 ![](4.PNG)
 
-- *cause of number of samples in dataset and selecting degree for model it is obviouse that overfitthing would be happen
+
