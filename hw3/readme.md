@@ -9,7 +9,7 @@
          - Naive Bayes model
 
 
-- _Assume the data dont follows a Gaussian distribution_
+- _Assume the data does not follow a Gaussian distribution_
 
 - classifiers:
 
